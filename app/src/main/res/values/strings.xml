@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EX1A - Simple Project</string>
+    <string name="title_text">Welcome to Android</string>
+    <string name="subtitle_text">Exercise 1A: Simple Application</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="submit_button">Submit</string>
+    <string name="clear_button">Clear</string>
+    <string name="default_greeting">Your message will appear here!</string>
+    <string name="empty_name_error">Please enter your name</string>
+</resources>
